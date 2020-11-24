@@ -11,7 +11,7 @@
   - `docker-compose up -d`
 
 ## Reference sources
-- Nginx+Rails6.0+MySQL8.0+Adminer：docker-compose で rails new
+- Nginx+Rails6.0+MySQL8.0+Adminer：docker-compose で rails new | 北山淳也 | zenn
   - https://zenn.dev/junki555/articles/13da16e4f10c9dee2bb9
 - rails | Docker Hub
   - "This image is officially deprecated in favor of the standard ruby image"
